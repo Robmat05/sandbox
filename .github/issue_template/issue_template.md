@@ -37,6 +37,10 @@ assignees: Robmat05
 
 <!-- 8/10. Because... -->
 
+**Will your test require us to provide specific formal documentation post-test?**
+
+<!--We understand that some testing will need the results formally documented so they can be stored/presented elsewhere. Please let us know here so we can plan for creating those docs -->
+
 **Additional remarks.**
 
 <!-- Anything else that Project Oni should know. -->
